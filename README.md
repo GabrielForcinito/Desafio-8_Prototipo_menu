@@ -38,13 +38,6 @@ Neste projeto pratiquei:
 * Organização de estrutura de site
 * Boas práticas de HTML
 
-## 🚀 Melhorias futuras
-
-* Aplicar estilização com CSS
-* Criar menu de navegação fixo
-* Melhorar a experiência do usuário
-* Tornar o layout responsivo
-
 ## 👨‍💻 Autor
 
 Gabriel Forcinito
