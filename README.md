@@ -26,8 +26,8 @@ Projeto desenvolvido em HTML com o objetivo de praticar a navegação entre pág
 
 
 ## 💻 Como executar
-
-Basta abrir o arquivo `index.html` e navegar pelas páginas através dos links.
+1. Baixe ou clone este repositório
+2. Abra o arquivo `index.html` em seu navegador
 
 ## 📚 Aprendizado
 
