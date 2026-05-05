@@ -13,15 +13,15 @@ Este projeto foi desenvolvido com o objetivo de praticar a **navegação entre p
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7a136800-2eb5-4f1d-84c6-9d8a720bdc27" width="80%">
+  <img src="https://github.com/user-attachments/assets/9d1cbabc-dad2-409a-8854-f92505becc74" width="80%">
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/06694306-1684-4f8f-99eb-dd6ebd61d456" width="80%">
+  <img src="https://github.com/user-attachments/assets/e814039c-9b18-46b6-acce-2c65416580dd" width="80%">
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/16842b3b-3a8c-4a75-8dbe-3fd78c182c94" width="80%">
+  <img src="https://github.com/user-attachments/assets/fad25a1f-b9ff-48fc-8636-72a58654db3f" width="80%">
 </p>
 
 ---
